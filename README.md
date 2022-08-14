@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Xen!
 <p align="center">
-  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bot+Developer;Web+Developer;Logo+Developer;JavaScript+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bot+Developer;Logo+Developer;JavaScript+Developer;&center=true&width=500&height=50"></a>
 </p>
 <br>- 🔭 I’m currently working on Dynamic Industries
 <br>- 🌱 I’m currently learning Java
